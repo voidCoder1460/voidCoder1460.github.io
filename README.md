@@ -105,12 +105,4 @@ Recommended test conditions:
 Publish benchmark results only after testing, including hardware specifications and test conditions.
 
 
-## 📜 License
-
-Add a `LICENSE` file before distributing this project publicly.
-
-Choose a license that matches your code and distribution goals, and verify the licenses of any third-party code or dependencies you use.
-
----
-
 **Built for smoother portal-heavy Minecraft gameplay.** ◈
